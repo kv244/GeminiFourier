@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Audio Visualizer",
+  "description": "An interactive web application that visualizes the frequency spectrum and waveform of audio in real-time using your microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
